@@ -1,10 +1,10 @@
 # C
 
-<h2><b>Program 1
-<h3><b>sample INPUT
+Program 1
+sample INPUT<br>
 5
 
-<h3><b>sample OUTPUT
+sample OUTPUT<br>
 1 
 2 4 
 1 3 5 
